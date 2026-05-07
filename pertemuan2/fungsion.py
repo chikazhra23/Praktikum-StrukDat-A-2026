@@ -8,7 +8,7 @@ my_function()
 def my_function():
   print("Hello from a function")
 
-my_function()
+my_function() 
 my_function()
 my_function()
 
@@ -79,7 +79,7 @@ my_function("Brazil")
 def my_function(animal, name):
   print("I have a", animal)
   print("My", animal + "'s name is", name)
-
+ 
 my_function(animal = "dog", name = "Buddy")
 
 #Dengan cara ini, pada argumen kata kunci, urutan argumen tidak menjadi masalah.
@@ -172,7 +172,7 @@ print(result)
 def my_function(*kids):
   print("The youngest child is " + kids[2])
 
-my_function("Emil", "Tobias", "Linus")
+my_function("Emil", "Tobias", "Linus") 
 
 #Mengakses argumen individual dari *args
 def my_function(*args):

@@ -1,0 +1,6 @@
+print("=== PyBook Store ===")
+print("1. Tambah Buku")
+print("2. Tampilkan Semua Buku")
+print("3. Beli Buku")
+print("4. Laporan Penjualan")
+print("5. Keluar")

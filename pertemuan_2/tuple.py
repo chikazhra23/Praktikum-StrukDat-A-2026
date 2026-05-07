@@ -25,7 +25,7 @@ print(thistuple[:4])
 #Contoh ini mengembalikan item dari "cherry" hingga akhir
 thistuple = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
 print(thistuple[2:])
-
+ 
 #Contoh ini mengembalikan item dari indeks -4 (termasuk) hingga indeks -1 (tidak termasuk)
 thistuple = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
 print(thistuple[-4:-1])
